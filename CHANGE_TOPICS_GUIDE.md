@@ -209,3 +209,4 @@ But for this project, editing `.env` is the simplest and most maintainable appro
 
 **Remember**: After changing topics in `.env`, just run `python newsletter_generator.py` again - no code changes needed! 🚀
 
+
